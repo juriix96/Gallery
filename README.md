@@ -39,3 +39,4 @@ Part 1 The home page should be viewable without needing to be logged in and shou
 
 The name of the item A thumbnail image The price the seller is asking for A status, one of the following: for sale. under offer. sold. The name and phone number of the artist.
 # Practicing with Client Server
+# database added

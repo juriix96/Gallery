@@ -1,4 +1,5 @@
 # Gallery project
+
 Gallery
 Build a website for up and coming artists/photographers to advertise their products.
 
@@ -26,3 +27,4 @@ under offer.
 sold.
 The name and phone number of the artist.
 
+end of task
